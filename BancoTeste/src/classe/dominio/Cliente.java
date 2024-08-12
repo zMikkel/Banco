@@ -1,4 +1,4 @@
-package classe.padrao;
+package classe.dominio;
 
 public class Cliente {
 
